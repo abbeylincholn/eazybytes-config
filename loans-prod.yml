@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Hey, welcome to AbbeyBank loans related prod APIs "
+  message: "Hey, welcome to AbbeyBank loans related production APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "{cipher}783f32f1ba41171b129d0a2d8a4cf11226601d45788357795ae060ad693754e769c907c1336a01208440620e4e2c889d"
