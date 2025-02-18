@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to AbbeyBank cards related QA APIs "
+  message: "Welcome to AbbeyBank cards related Quality Assurance (QA) APIs "
   contactDetails:
     name: "Cherryl Pankaj - QA Lead"
     email: "{cipher}b28eeea5cd2452ed272b7843e90ff79798445d335d9e86439bba792f05a9755aa77125aec6c2b2316c117bf08d1f6bb8"
